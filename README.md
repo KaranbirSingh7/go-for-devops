@@ -1,3 +1,3 @@
 # Go for DevOps 
 
-# go-for-devops
+Book: https://www.packtpub.com/product/go-for-devops/9781801818896
